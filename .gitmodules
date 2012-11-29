@@ -4,3 +4,6 @@
 [submodule "greenlet"]
 	path = greenlet
 	url = git@github.com:python-greenlet/greenlet.git
+[submodule "gevent"]
+	path = gevent
+	url = git@github.com:SiteSupport/gevent.git
