@@ -1,3 +1,6 @@
 [submodule "libevent"]
 	path = libevent
 	url = git@github.com:libevent/libevent.git
+[submodule "greenlet"]
+	path = greenlet
+	url = git@github.com:python-greenlet/greenlet.git
