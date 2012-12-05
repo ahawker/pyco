@@ -7,3 +7,6 @@
 [submodule "gevent"]
 	path = gevent
 	url = git@github.com:SiteSupport/gevent.git
+[submodule "cython"]
+	path = cython
+	url = git@github.com:cython/cython.git
